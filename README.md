@@ -9,7 +9,7 @@ Here are some of my introductory projects to learning about graphics and animati
 5) https://joshua-cheng2210.github.io/ObjectTextureRendering/
 6) https://joshua-cheng2210.github.io/MyDrawingBoard/
 
-# CSCI 4611 project 1: TextRainAnimationForSnapchat
+# project 1: TextRainAnimationForSnapchat
 
 webiste to run the program: 
 - https://joshua-cheng2210.github.io/TextRainAnimationForSnapchat
@@ -23,7 +23,7 @@ packages uesd:
 topics learnt
 - learning how 2D coordinate system works
 
-# CSCI 4611 project 2: MiniGame
+# project 2: MiniGame
 
 webiste to run the program: 
 - https://joshua-cheng2210.github.io/MiniGame
@@ -36,7 +36,7 @@ topics learnt
 - how to compute, create and render geometric shapes
 - how to apply textures to the 3D geometric shapes
 
-# CSCI 4611 project 3: DataVisualization
+# project 3: DataVisualization
 
 webiste to run the program: 
 - https://joshua-cheng2210.github.io/3DataVisualization
@@ -53,7 +53,7 @@ topics learnt
 - how to render between 2D and 3D coordinate planes
 - if theres 1 thing to take away, higher graphics rendering detail and graphics computing speed are each others trade-offs
 
-# CSCI 4611 project 4: 3DObjectAnimation
+# project 4: 3DObjectAnimation
 
 webiste to run the program: 
 - https://joshua-cheng2210.github.io/3DObjectAnimation
@@ -68,7 +68,7 @@ topics learnt
 - building characters or object's components
 - handling each component's movements relative to its joints or starting points
 
-# CSCI 4611 project 5: ObjectTextureRendering
+# project 5: ObjectTextureRendering
 
 webiste to run the program:
 - https://joshua-cheng2210.github.io/ObjectTextureRendering
@@ -80,7 +80,7 @@ topics learnt
 - rendering lightings from a light source and shadows casted to the perspective or POV of the camera
 - rendering surface texture to be looking smooth or rougher
 
-# CSCI 4611 project 6: MyDrawingBoard
+# project 6: MyDrawingBoard
 
 webiste to run the program: 
 - https://joshua-cheng2210.github.io/MyDrawingBoard
