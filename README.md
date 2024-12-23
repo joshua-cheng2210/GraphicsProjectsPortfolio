@@ -1,7 +1,7 @@
 # GraphicsProjectsPortfolio
 Here are some of my introductory projects to learning about graphics and animation.
 
-# Projects
+# Projects Demo
 1) https://joshua-cheng2210.github.io/TextRainAnimationForSnapchat/
 2) https://joshua-cheng2210.github.io/MiniGame/
 3) https://joshua-cheng2210.github.io/DataVisualization/
