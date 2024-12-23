@@ -2,12 +2,12 @@
 Here are some of my introductory projects to learning about graphics and animation. From learning the 2D and 3D coorrdinate systems to building chracters' and objects' components and texturing, redering and animating it. Bringing it to life!
 
 # Projects Demo
-1) https://joshua-cheng2210.github.io/TextRainAnimationForSnapchat/
-2) https://joshua-cheng2210.github.io/MiniGame/
-3) https://joshua-cheng2210.github.io/DataVisualization/
-4) https://joshua-cheng2210.github.io/3DObjectAnimation/
-5) https://joshua-cheng2210.github.io/ObjectTextureRendering/
-6) https://joshua-cheng2210.github.io/MyDrawingBoard/
+1) https://joshua-cheng2210.github.io/TextRainAnimationForSnapchat/ (turn on camera mode let the letters rain)
+2) https://joshua-cheng2210.github.io/MiniGame/ (dont swallow the red ball)
+3) https://joshua-cheng2210.github.io/DataVisualization/ (past earthquake spots: flip between the globe and map)
+4) https://joshua-cheng2210.github.io/3DObjectAnimation/ (dancing ants: - project in progress)
+5) https://joshua-cheng2210.github.io/ObjectTextureRendering/ (switch between different textures and skins)
+6) https://joshua-cheng2210.github.io/MyDrawingBoard/ (draw something - like a hill or a signboard)
 
 # project 1: TextRainAnimationForSnapchat
 
