@@ -1,5 +1,5 @@
 # GraphicsProjectsPortfolio
-Here are some of my introductory projects to learning about graphics and animation.
+Here are some of my introductory projects to learning about graphics and animation. From learning the 2D and 3D coorrdinate systems to building chracters' and objects' components and texturing, redering and animating it
 
 # Projects Demo
 1) https://joshua-cheng2210.github.io/TextRainAnimationForSnapchat/
